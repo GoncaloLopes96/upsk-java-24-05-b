@@ -173,7 +173,7 @@
 </script>
 
 <!-- Google Maps API -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiyT7HENygnLrulQYlbcQHT5lx4vj4a34&callback=initMap&libraries=places" defer></script>
+<script src="" defer></script>
 
 </body>
 </html>
